@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweb"]=self["webpackChunkweb"]||[]).push([[618],{618:function(e,n,t){t.r(n),t.d(n,{default:function(){return h}});var s=t(641);const r={class:"about bg-secondary d-flex justify-content-center align-items-center",style:{height:"100vh"}},c=(0,s.Lk)("h1",null,"This is an service page",-1),u=[c];function a(e,n){return(0,s.uX)(),(0,s.CE)("div",r,u)}var i=t(262);const l={},f=(0,i.A)(l,[["render",a]]);var h=f}}]);
+//# sourceMappingURL=618.9c13163f.js.map
