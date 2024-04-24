@@ -1,0 +1,17 @@
+//bootstrap
+@import "~/node_modules/bootstrap/scss/functions";
+
+@import "helpers/variables";
+@import "helpers/variables-dark";
+
+@import "~/node_modules/bootstrap/scss/bootstrap";
+
+// swiper
+@import 'swiper/css';
+@import 'swiper/css/free-mode';
+@import 'swiper/css/pagination';
+@import 'swiper/css/grid';
+@import 'swiper/css/navigation';
+
+// 自定義
+@import "helpers/main";
